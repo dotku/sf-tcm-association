@@ -1,0 +1,34 @@
+{
+  "home": {
+    "title": "旧金山湾区中医协会",
+    "welcome": "欢迎",
+    "description": "致力于推广中医药文化，服务湾区华人社区",
+    "aboutUs": "关于我们",
+    "services": "服务项目",
+    "members": "会员单位",
+    "contact": "联系我们",
+    "news": "新闻动态"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务项目",
+    "members": "会员单位",
+    "news": "新闻动态",
+    "contact": "联系我们"
+  },
+  "footer": {
+    "copyright": "© 2025 旧金山湾区中医协会 版权所有",
+    "aboutTitle": "关于我们",
+    "aboutText": "致力于推广中医药文化，以卓越和诚信服务湾区社区。",
+    "quickLinks": "快速链接",
+    "contactTitle": "联系我们",
+    "address": "地址",
+    "addressValue": "加州旧金山湾区",
+    "phone": "电话",
+    "phoneValue": "(415) 123-4567",
+    "email": "邮箱",
+    "emailValue": "info@sfbayareatcm.org",
+    "followUs": "关注我们"
+  }
+}
